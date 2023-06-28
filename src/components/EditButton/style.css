@@ -1,0 +1,27 @@
+.updateData {
+  margin-left: 20px;
+  background-color: rgb(209, 212, 25);
+  height: 44px;
+  user-select: none;
+  border: solid 3px black;
+  border-radius: 5px;
+}
+
+.editForm {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.editForm > input {
+  width: 300px;
+  height: 36px;
+  border: solid 3px black;
+  border-radius: 5px;
+}
+
+.editForm > button {
+  height: 44px;
+  margin-left: 20px;
+  border: solid 3px black;
+  border-radius: 5px;
+}
